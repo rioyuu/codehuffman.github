@@ -1,0 +1,4 @@
+﻿  Code Huffman.cpp
+C:\Users\kyphu\OneDrive\Documents\Visual Studio 2019\Code Huffman\Code Huffman\Code Huffman.cpp(68,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kyphu\OneDrive\Documents\Visual Studio 2019\Code Huffman\Code Huffman\Code Huffman.cpp(71,12): warning C4018: '<': signed/unsigned mismatch
+  Code Huffman.vcxproj -> C:\Users\kyphu\OneDrive\Documents\Visual Studio 2019\Code Huffman\Debug\Code Huffman.exe
